@@ -8,7 +8,7 @@ I'm Alejandro Mesa a frontend developer working at [Jam3](https://www.jam3.com/)
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,git,graphql,mysql,supabase,vscode,aws&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,git,graphql,mysql,supabase,vscode,aws&perline=8" />
   </a>
 </p>
 
