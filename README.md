@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-I'm Alejandro Mesa a frontend developer working at [Jam3](https://www.jam3.com/)
+I'm Alejandro Mesa a Senior full-stack developer working at [Monks](https://www.monks.com/)
 
 ---
 
